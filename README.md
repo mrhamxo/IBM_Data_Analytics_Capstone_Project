@@ -19,6 +19,8 @@
 
 This project was completed as the final capstone for the **IBM Data Analyst Professional Certificate**. The goal was to act as a Data Analyst for a large IT consulting organization and help the company understand **what skills are currently in demand** and **what technologies are expected to grow** in the near future.
 
+This is an end-to-end data analytics project that covers the complete analyst workflow, collecting data through web scraping and APIs, cleaning and preparing it for analysis, exploring patterns and trends through statistical methods, and communicating findings through clear, well-structured visualizations. The dataset is based on the Stack Overflow Developer Survey with over 11,500 respondents worldwide, and the analysis focuses on identifying which programming languages, databases, and development tools are most in demand today and where the industry is heading next. Alongside Python-based analysis in Jupyter Notebooks, IBM Cognos Analytics was also used for interactive dashboard creation and deeper visual exploration of the data. Every stage of the project is documented with step-by-step comments, making the entire process transparent and easy to follow.
+
 The analysis covers:
 - Which programming languages developers are using today — and which ones they want to learn next
 - Which databases are most popular — and which are gaining interest
