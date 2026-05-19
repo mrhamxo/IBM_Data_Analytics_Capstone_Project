@@ -215,6 +215,7 @@ TypeScript, Go, and Kotlin are appearing in desired-language lists. Encouraging 
 | **NumPy** | Numerical operations |
 | **Matplotlib** | Base charting library |
 | **Seaborn** | Statistical visualizations |
+| **IBM Cognos Analytics** | Data Analysis and visualizations |
 | **BeautifulSoup** | Web scraping |
 | **Requests** | API calls and HTTP requests |
 | **SQLite / sqlite3** | Querying the survey database |
@@ -287,7 +288,3 @@ IBM_Capstone_Project/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-*This project was completed as part of the IBM Data Analyst Professional Certificate on Coursera.*
