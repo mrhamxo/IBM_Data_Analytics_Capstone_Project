@@ -273,7 +273,7 @@ IBM_Capstone_Project/
 ├── 05_data_visualization/
 │   └── data_visualization.ipynb
 │
-├── images/                         ← All 11 charts saved here
+├── images/                         
 │   ├── 01_salary_histogram.png
 │   ├── 02_salary_by_education_boxplot.png
 │   ├── 03_top10_languages_worked_with.png
